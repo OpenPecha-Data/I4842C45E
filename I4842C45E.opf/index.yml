@@ -1,0 +1,60 @@
+id: b8f3d9c51fb24b52a1e413f19dc523e1
+annotation_type: index
+revision: '00001'
+annotations:
+  3fb1126f8350401ea11631d5e48a627b:
+    base: C7C1.txt
+    Chapters:
+    - title: Pratikriyāvastūddāna
+      span:
+        start: 0
+        end: 199
+    - title: Pāṇḍulohitakavastūddāna
+      span:
+        start: 200
+        end: 462
+    - title: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      span:
+        start: 463
+        end: 10293
+    - title: 'Śreyaka: nigarhanīyaṃ karma'
+      span:
+        start: 10294
+        end: 17065
+    - title: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      span:
+        start: 17066
+        end: 21874
+    - title: 'Uttara: pratisaṃharanīyaṃ karma'
+      span:
+        start: 21875
+        end: 34872
+    - title: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      span:
+        start: 34873
+        end: 37697
+    - title: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      span:
+        start: 37698
+        end: 41823
+    - title: 'Udayin: parivāsa'
+      span:
+        start: 41824
+        end: 45007
+    - title: 'Udayin: mūlaparivāsa'
+      span:
+        start: 45008
+        end: 49327
+    - title: 'Udayin: mūlāpakaṛṣa'
+      span:
+        start: 49328
+        end: 55170
+    - title: 'Udayin: mānāpya'
+      span:
+        start: 55171
+        end: 64095
+    - title: 'Udayin: āvarhaṇa'
+      span:
+        start: 64096
+        end: 80849

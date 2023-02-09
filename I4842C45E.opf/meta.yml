@@ -1,0 +1,16 @@
+id: I4842C45E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:08:46.862458
+last_modified: 2023-02-09 15:08:46.862585
+source_metadata:
+  title: 'MSV 1,11: Pāṇḍulohitakavastu'
+  language: bo
+bases:
+  C7C1:
+    base_file: C7C1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
